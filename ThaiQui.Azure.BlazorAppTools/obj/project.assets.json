@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\6.Program-Personal\\Learns\\Learn-Azure\\Az-204\\Udemy\\Sources\\ThaiQui.Azure\\Part-6\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools.csproj",
+      "projectUniqueName": "D:\\6.Program-Personal\\Learns\\Azure-Lab\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools.csproj",
       "projectName": "ThaiQui.Azure.BlazorAppTools",
-      "projectPath": "D:\\6.Program-Personal\\Learns\\Learn-Azure\\Az-204\\Udemy\\Sources\\ThaiQui.Azure\\Part-6\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools.csproj",
+      "projectPath": "D:\\6.Program-Personal\\Learns\\Azure-Lab\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools.csproj",
       "packagesPath": "C:\\Users\\ThaiQui\\.nuget\\packages\\",
-      "outputPath": "D:\\6.Program-Personal\\Learns\\Learn-Azure\\Az-204\\Udemy\\Sources\\ThaiQui.Azure\\Part-6\\ThaiQui.Azure.BlazorAppTools\\obj\\",
+      "outputPath": "D:\\6.Program-Personal\\Learns\\Azure-Lab\\ThaiQui.Azure.BlazorAppTools\\ThaiQui.Azure.BlazorAppTools\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ThaiQui\\AppData\\Roaming\\NuGet\\NuGet.Config",

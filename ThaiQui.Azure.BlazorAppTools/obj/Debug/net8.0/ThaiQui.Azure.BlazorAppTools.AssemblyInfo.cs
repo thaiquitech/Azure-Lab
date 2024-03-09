@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThaiQui.Azure.BlazorAppTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fadebc17acafe0127440eb8139c2df16291f10d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f27bbe178672ef379f770eede0178a853860dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThaiQui.Azure.BlazorAppTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThaiQui.Azure.BlazorAppTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
