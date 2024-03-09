@@ -1,0 +1,6 @@
+﻿services:
+  thaiqui.azure.blazorapptools:
+    image: thaiqui.azure.blazorapptools
+    build:
+      context: .
+      dockerfile: ThaiQui.Azure.BlazorAppTools/Dockerfile
